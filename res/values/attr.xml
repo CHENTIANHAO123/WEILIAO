@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="icon_1" format="reference" />
+    <attr name="color_1" format="color" />
+    <attr name="text" format="string" />
+    <attr name="text_size" format="dimension" />
+
+    <declare-styleable name="BelowView">
+        <attr name="icon_1" />
+        <attr name="color_1" />
+        <attr name="text" />
+        <attr name="text_size" />
+    </declare-styleable>
+    
+
+</resources>
